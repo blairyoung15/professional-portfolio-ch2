@@ -75,3 +75,34 @@ header {
   }
   
   /* HEADER / NAVBAR STYLES END */
+
+  /* HERO STYLES START */
+.hero {
+    width: 100vw;
+    height: 40vh;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 80%;
+    position: relative;
+  }
+  
+  .hero-cta h2 {
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    font-size: 28px;
+    color: var(--primary-color);
+    background-color: var(--tertiary-color);
+    padding: 10px;
+    margin: 2%;
+    width: 40%;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  /* HERO STYLES END */
