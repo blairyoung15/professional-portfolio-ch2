@@ -8,6 +8,10 @@
 
 https://blairyoung15.github.io/professional-portfolio-ch2/
 
+<img src="https://github.com/blairyoung15/professional-portfolio-ch2/blob/main/assets/images/website-screenshots/professionalportfolio1.png" width="30%"></img>
+<img src="https://github.com/blairyoung15/professional-portfolio-ch2/blob/main/assets/images/website-screenshots/professionalportfolio2.png" width="30%"></img>
+<img src="https://github.com/blairyoung15/professional-portfolio-ch2/blob/main/assets/images/website-screenshots/professionalportfolio3.png" width="30%"></img>
+<img src="https://github.com/blairyoung15/professional-portfolio-ch2/blob/main/assets/images/website-screenshots/professionalportfolio4.png" width="30%"></img>
 
 ## Description
 
