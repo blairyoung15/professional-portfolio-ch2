@@ -106,3 +106,55 @@ header {
   }
   
   /* HERO STYLES END */
+
+  /* body styles, about me styles START */
+
+  .portfolio .section { 
+    background: rgb(236, 236, 236);
+  }
+  
+  .content {
+    margin: 20px auto;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  
+  
+  .content h3 {
+    color: var(--secondary-color);
+    font-size: 42px;
+    flex: 1 20%;
+    text-align: right;
+    padding: 0px 15px 0px 0px;
+  }
+  
+  .content-info  {
+    flex: 2 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border-left: 3px solid var(--secondary-color);
+    padding: 10px 10px 0px 20px;
+  }
+  
+  .content-img img {
+    float: right;
+    margin: 0px 0px 15px 15px;
+    border-radius: 50px;
+  }
+  
+  .content-text {
+    flex: 12;
+  }
+  
+  .content-text p {
+    color: var(--secondary-color);
+    font-size: 18px;
+  }
+  
+   /* body styles, about me styles END */
