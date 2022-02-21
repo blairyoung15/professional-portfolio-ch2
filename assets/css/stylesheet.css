@@ -247,3 +247,33 @@ header {
   
   
   /* WORK END */
+
+  /* CONTACT ME START */
+
+.contact-me-list ul {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+  }
+  
+  .contact-me-list ul li a {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.55vw;
+    color: var(--secondary-color);
+    text-decoration-line: underline;
+    text-underline-offset: 6px;
+    text-decoration-thickness: 20%;
+  }
+  
+  /* CONTACT ME END */
+  
+  /* UTILITIES */
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  
